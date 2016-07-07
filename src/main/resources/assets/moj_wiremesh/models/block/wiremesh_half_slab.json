@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "moj_wiremesh:blocks/wiremesh",
+        "top": "moj_wiremesh:blocks/wiremesh",
+        "side": "moj_wiremesh:blocks/wiremesh"
+    }
+}

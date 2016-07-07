@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=default": { "model": "moj_wiremesh:wiremesh_half_slab" },
+        "half=top,variant=default": { "model": "moj_wiremesh:wiremesh_upper_slab" }
+    }
+}

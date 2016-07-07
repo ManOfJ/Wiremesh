@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom": { "model": "moj_wiremesh:wiremesh_tile" },
+        "half=top": { "model": "moj_wiremesh:wiremesh_upper_tile" }
+    }
+}
