@@ -1,0 +1,22 @@
+[
+    {
+        "modid": "@modid@",
+        "name": "Wiremesh",
+        "description": "",
+        "version": "@version@",
+        "mcversion": "1.10.2-12.18.0.2006-1.10.0",
+        "url": "http://manofj.com/minecraft",
+        "updateUrl": "http://manofj.com/minecraft/update?v=Wiremesh",
+        "authorList": [
+            "Man of J"
+        ],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [
+            
+        ],
+        "dependencies": [
+            
+        ]
+    }
+]

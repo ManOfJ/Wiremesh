@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "variant=default": { "model": "moj_wiremesh:wiremesh_block" }
+    }
+}
